@@ -32,8 +32,8 @@ Instagram Graph API provides us with all the required data.
 # Scrum Roles
 
 •	Front End Developer: Surya Sanjay Bandari  <br/>
-•	Front End Developer: Preetham Chelimela  <br/>
-•	Front End Developer: Lloyd Dsouza  <br/>
+•	Back-end Developer: Preetham Chelimela  <br/>
+•	Scrum Master: Lloyd Dsouza  <br/>
 •	Front End Developer: Shyam Varma  <br/>
 
 # Weekly Meeting
