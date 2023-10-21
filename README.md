@@ -20,10 +20,10 @@ Welcome to VogueYou...!!!
 
 ## Examples
 
-**Given:** I have social media accounts on Instagram. When I log in to the social media analytics website and connect my accounts.Then I should be able to see a dashboard with my overall insights from all three platforms.<br/>  
-**Given:** I have connected my social media account to the social media analytics website.When I go to the audience screen.Then I should be able to see insights about my audience, such as demographics, interests, and location.<br/>  
+**Given:** I have social media accounts on Instagram. When I log in to the social media analytics website and connect my accounts.Then I should be able to see a dashboard with my overall insights from all three platforms.<br/>
+**Given:** I have connected my social media account to the social media analytics website.When I go to the audience screen.Then I should be able to see insights about my audience, such as demographics, interests, and location.<br/>
 **Given:** I have connected my social media account to the social media analytics website.When I go to the engagement screen.Then I should be able to see insights about my engagement, such as top posts, most popular hashtags, and most engaged users.<br/>
-**Given:** I have connected my social media account to the social media analytics website.When I go to the trends screen.Then I should be able to see insights about trending topics on social media.<br/>  
+**Given:** I have connected my social media account to the social media analytics website.When I go to the trends screen.Then I should be able to see insights about trending topics on social media.<br/>
 
 ## Dependencies
 
