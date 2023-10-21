@@ -13,15 +13,20 @@ Welcome to VogueYou...!!!
 
 
 # Requirements
-
-
-## Dependencies
-
+1. As a user, I want to be able to connect my social media account so that I can track my performance on all platforms in one place.
+2. As a user, I want to be able to see insights about my social media audience so that I can better understand them and create more engaging content.
+3. As a user, I want to be able to see insights about my social media engagement so that I can identify what content is resonating with my audience and improve my campaigns.
+4. As a user, I want to be able to see insights about trending topics on social media so that I can create content that is relevant and timely.
 
 ## Examples
 
-   
-   
+**Given:** I have social media accounts on Instagram. When I log in to the social media analytics website and connect my accounts.Then I should be able to see a dashboard with my overall insights from all three platforms.
+**Given:** I have connected my social media account to the social media analytics website.When I go to the audience screen.Then I should be able to see insights about my audience, such as demographics, interests, and location.
+**Given:** I have connected my social media account to the social media analytics website.When I go to the engagement screen.Then I should be able to see insights about my engagement, such as top posts, most popular hashtags, and most engaged users.
+**Given:** I have connected my social media account to the social media analytics website.When I go to the trends screen.Then I should be able to see insights about trending topics on social media.
+
+## Dependencies
+
 
 # Scrum Roles
 
