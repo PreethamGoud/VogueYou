@@ -1,11 +1,11 @@
 <img src="https://github.com/PreethamGoud/VogueYou/blob/master/wwwroot/assets/Logos/VogueYou-logos.jpeg" width="350" alt="accessibility text">
 
 # Introduction
-VogueYou...!!!  
+Welcome to VogueYou...!!!  
 
-This social media analytics website will allow users to collect and analyze data from social media platform "Instagram".  <br/>    
-The website will provide users with insights about their audience, engagement levels, and trending topics.  <br/>    
-The website can also be integrated with social media marketing tools to make it easy for users to manage their social media campaigns.  <br/> 
+• Our social media analytics website will allow users to collect and analyze data from social media platform "Instagram".  <br/>    
+• The website will provide users with insights about their audience, engagement levels, and trending topics.  <br/>    
+• The website can also be integrated with social media marketing tools to make it easy for users to manage their social media campaigns.  <br/> 
 
 # DataFeeds
 
