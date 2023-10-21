@@ -22,10 +22,10 @@ This social media analytics website will allow users to collect and analyze data
 
 # Scrum Roles
 
-•	Front End Developer: Surya Sanjay Bandari<br/>
-•	Front End Developer: Preetham Chelimela<br/>
-•	Front End Developer: Lloyd Dsouza<br/>
-•	Front End Developer: Shyam Varma<br/>
+•	Front End Developer: Surya Sanjay Bandari  <br/>
+•	Front End Developer: Preetham Chelimela  <br/>
+•	Front End Developer: Lloyd Dsouza  <br/>
+•	Front End Developer: Shyam Varma  <br/>
 
 # Weekly Meeting
  
