@@ -1,4 +1,4 @@
-<img src="https://github.com/dhruval-01/IS7024/blob/master/logo-no-background.png" width="350" alt="accessibility text">
+<img src="C:\Users\15133\Desktop\Lloyd\Masters in USA\MS-IS Subjects Classes\Fall 2023\IS 7024 - XML & WEB SERVICES\Final Project\VogueYou-logos\VogueYou-logos.jpeg" width="350" alt="accessibility text">
 
 # Introduction
 
