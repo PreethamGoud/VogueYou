@@ -27,6 +27,7 @@ Welcome to VogueYou...!!!
 
 ## Dependencies
 
+Instagram Graph API provides us with all the required data.
 
 # Scrum Roles
 
