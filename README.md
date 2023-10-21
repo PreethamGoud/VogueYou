@@ -1,8 +1,11 @@
 <img src="https://github.com/PreethamGoud/VogueYou/blob/master/wwwroot/assets/Logos/VogueYou-logos.jpeg" width="350" alt="accessibility text">
 
 # Introduction
+VogueYou...!!!  
 
-This social media analytics website will allow users to collect and analyze data from various social media platforms, such as Twitter, Facebook, and Instagram. The website will provide users with insights about their audience, engagement levels, and trending topics. The website can also be integrated with social media marketing tools to make it easy for users to manage their social media campaigns. 
+This social media analytics website will allow users to collect and analyze data from social media platform "Instagram".    
+The website will provide users with insights about their audience, engagement levels, and trending topics.    
+The website can also be integrated with social media marketing tools to make it easy for users to manage their social media campaigns.  
 
 # DataFeeds
 
