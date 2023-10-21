@@ -1,4 +1,4 @@
-<img src="https://github.com/PreethamGoud/VogueYou/blob/master/wwwroot/assets/Logos/VogueYou-logos_transparent.jpeg" width="350" alt="accessibility text">
+<img src="https://github.com/PreethamGoud/VogueYou/blob/master/wwwroot/assets/Logos/VogueYou-logos_transparent.png" width="350" alt="accessibility text">
 
 # Introduction
 Welcome to VogueYou...!!!  
